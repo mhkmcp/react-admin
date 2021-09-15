@@ -24,7 +24,7 @@ export default function Topbar() {
                     <div className="topbarIconContainer">
                         <Settings />
                     </div>
-                    <img src="https://images.unsplash.com/photo-1511367461989-f85a21fda167?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cHJvZmlsZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80" alt="Profile Picture" className="topAvatar" />
+                    <img src="https://images.unsplash.com/photo-1511367461989-f85a21fda167?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cHJvZmlsZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80" alt="Profile" className="topAvatar" />
                 </div>
             </div>
         </div>

@@ -1,7 +1,4 @@
 .container {
     display: flex;
-}
-.other {
-    flex: 4;
-    border: 2px solid palevioletred;
+    margin-top: 10px;
 }
